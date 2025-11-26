@@ -106,8 +106,6 @@ Para reproduzir a mesma organização no seu ambiente, crie uma pasta com a segu
 
 4.  No R, execute:
 
-5.  
-
 ``` text
     library(hexsession)
 
